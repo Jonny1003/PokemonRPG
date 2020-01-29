@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=GameFrame
+comment0.text=\n\ Primary\ controller\ of\ all\ elements\ of\ game.\ Updates\ display\ image\ appropriately.\n\ \n\ @Jonathan\ Ke\n\ @8/13/2019\n
+comment1.params=
+comment1.target=GameFrame()
+comment10.params=s
+comment10.target=void\ drawStaticObject(StaticObject)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ update()
+comment4.params=y
+comment4.target=void\ drawActors(int)
+comment5.params=x\ y
+comment5.target=void\ drawBackground(int,\ int)
+comment6.params=a
+comment6.target=void\ drawActor(IActor)
+comment7.params=b
+comment7.target=void\ drawBall(Pokeball)
+comment8.params=p
+comment8.target=void\ drawPlant(Plant)
+comment9.params=p
+comment9.target=void\ drawShakingPlant(Plant)
+numComments=12

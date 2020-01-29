@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Layer2
+comment0.text=\n\ Layer\ for\ drawing\ collidable\ static\ objects\ on\ map\n\ \n\ @Jonathan\ Ke\n\ @8/13/2019\n
+comment1.params=
+comment1.target=Layer2()
+comment2.params=x\ y
+comment2.target=StaticObject\ getTree(int,\ int)
+comment3.params=xD\ yD
+comment3.target=java.awt.image.BufferedImage\ getPondImage(int,\ int)
+comment4.params=
+comment4.target=StaticObject[][]\ getLayer()
+comment5.params=
+comment5.target=java.util.ArrayList\ getObjects()
+numComments=6

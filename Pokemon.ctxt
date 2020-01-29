@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Pokemon
+comment0.text=\n\ builds\ a\ pokemon\ object,\ future\ edits\ to\ program\ should\ add\ more\ fields\ \n\ to\ pokemon\ object\ that\ can\ be\ implemented\ in\ game\n
+comment1.params=name\ loc\ b\ x\ y
+comment1.target=Pokemon(java.lang.String,\ java.lang.String,\ boolean,\ int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Pokemon,\ used\ for\ all\ pokemon\ except\ heart/gold\ pack\n
+comment2.params=name\ loc\ x\ y
+comment2.target=Pokemon(java.lang.String,\ java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.awt.image.BufferedImage[]\ getAnimations()
+comment5.params=
+comment5.target=int\ getSpawnTime()
+comment6.params=time
+comment6.target=void\ setSpawnTime(int)
+numComments=7

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Layer0
+comment0.text=\n\ Creates\ the\ background\ image\ of\ game\n\ \n\ @Jonathan\ Ke\n\ @8/13/2019\n
+comment1.params=
+comment1.target=Layer0()
+comment2.params=s
+comment2.target=java.awt.image.BufferedImage\ getImage(java.lang.String)
+numComments=3

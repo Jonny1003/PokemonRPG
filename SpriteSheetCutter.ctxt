@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=SpriteSheetCutter
+comment0.text=\n\ Class\ is\ composed\ of\ number\ of\ cutting\ methods\ and\ image\ loading\ method.\n\ All\ images\ converted\ to\ buffered\ image\ for\ future\ usage.\n\ \n\ @Jonathan\ Ke\n\ @8/13/2019\n
+comment1.params=file
+comment1.target=java.awt.image.BufferedImage\ getImage(java.lang.String)
+comment2.params=x\ y\ sheet
+comment2.target=java.awt.image.BufferedImage\ getSheet(int,\ int,\ java.lang.String)
+comment3.params=sheet
+comment3.target=java.awt.image.BufferedImage\ getSheet(java.lang.String)
+comment4.params=sheet\ rows\ columns
+comment4.target=java.awt.image.BufferedImage[]\ createAnimationBlocks(java.awt.image.BufferedImage,\ int,\ int)
+comment5.params=sheet
+comment5.target=java.awt.image.BufferedImage[]\ createAnimationBlocks(java.awt.image.BufferedImage)
+comment6.params=x\ y\ sheet
+comment6.target=java.awt.image.BufferedImage\ getSubimage(int,\ int,\ java.awt.image.BufferedImage)
+comment7.params=x\ y\ sheet
+comment7.target=java.awt.image.BufferedImage\ getHeartGold(int,\ int,\ java.lang.String)
+numComments=8

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Pokeball
+comment0.text=\n\ Pokeball\ object\ that\ player\ uses\ to\ catch\ pokemon.\n\ \n\ @Jonathan\ ke\n\ @8/13/2019\n
+comment1.params=initX\ initY\ direction\ c
+comment1.target=Pokeball(int,\ int,\ int,\ Collision)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=
+comment5.target=java.awt.image.BufferedImage\ getBall()
+comment6.params=
+comment6.target=boolean\ stopped()
+comment7.params=
+comment7.target=java.awt.Rectangle\ getHitBox()
+comment8.params=
+comment8.target=int\ getHitBoxY()
+numComments=9

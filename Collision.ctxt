@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Collision
+comment0.text=\n\ Checks\ all\ collision\ for\ the\ provided\ objects/classes\n\ \n\ @Jonathan\ Ke\n\ @8/13/2019\n
+comment1.params=l\ a
+comment1.target=Collision(Layer2,\ java.util.ArrayList)
+comment2.params=p
+comment2.target=void\ add(Player)
+comment3.params=a
+comment3.target=void\ add(Actor)
+comment4.params=a
+comment4.target=void\ remove(Actor)
+comment5.params=
+comment5.target=boolean\ checkPlayer()
+comment6.params=a
+comment6.target=boolean\ checkActor(Actor)
+comment7.params=r
+comment7.target=boolean\ checkRectangle(java.awt.Rectangle)
+comment8.params=ball
+comment8.target=Actor\ checkPokeball(Pokeball)
+numComments=9

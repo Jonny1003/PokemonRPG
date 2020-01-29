@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ActorMovementControl
+comment0.text=\n\ Object\ overseeing\ actor\ spawn,\ despawn,\ movement\ coordination\n\ \n\ @Jonathan\ Ke\n\ @8/13/2019\n
+comment1.params=a\ pokedex\ c\ tBox
+comment1.target=ActorMovementControl(java.util.ArrayList,\ Pokedex,\ Collision,\ TextBox)
+comment2.params=
+comment2.target=void\ update()
+comment3.params=
+comment3.target=void\ updateSpec()
+comment4.params=pok\ x\ y\ w\ l
+comment4.target=void\ spawn(java.util.ArrayList,\ int,\ int,\ int,\ int)
+numComments=5

@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrowKeys",
+            "request": "launch",
+            "mainClass": "ArrowKeys",
+            "projectName": "VSPokemon_450e7960"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LoadFont",
+            "request": "launch",
+            "mainClass": "LoadFont",
+            "projectName": "VSPokemon_450e7960"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GameFrame",
+            "request": "launch",
+            "mainClass": "GameFrame",
+            "projectName": "VSPokemon_450e7960"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RunGame",
+            "request": "launch",
+            "mainClass": "RunGame"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "Hello"
+        }
+    ]
+}

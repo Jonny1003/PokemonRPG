@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Plant
+comment0.text=\n\ Creates\ a\ plant\ object.\ All\ plant\ objects\ are\ noncollidable\n\ \n\ @Jonathan\ Ke\n\ @\ 8/13/2019\n
+comment1.params=x\ y\ img
+comment1.target=Plant(int,\ int,\ java.awt.image.BufferedImage)
+comment2.params=x\ y\ img\ bool
+comment2.target=Plant(int,\ int,\ java.awt.image.BufferedImage,\ boolean)
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=
+comment5.target=java.awt.image.BufferedImage\ getImage()
+numComments=6

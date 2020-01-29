@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Layer1
+comment0.text=\n\ Layer\ for\ noncollidable\ static\ objects,\ includes\ all\ Plant\ objects\n\ \n\ @Jonathan\ Ke\n\ @8/13/2019\n
+comment1.params=
+comment1.target=Layer1()
+comment2.params=x\ y
+comment2.target=void\ addGrassPatch(int,\ int)
+comment3.params=
+comment3.target=Plant[][]\ getLayer()
+numComments=4
